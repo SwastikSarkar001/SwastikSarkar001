@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React, Java, Python**
 
-- 📫 How to reach me **kookaswas1234@gmail.com**
+- 📫 Email me by **kookaswas1234@gmail.com**
 
 - ⚡ I have other interests like **Rock Climbing, Gaming, Travelling, Languages like Spanish, Russian, German**
 
