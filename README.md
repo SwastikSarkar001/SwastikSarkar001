@@ -15,12 +15,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swastiksarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastiksarkar001" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/swastik-sarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swastik-sarkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/swastiksarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swastiksarkar001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swastiksarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swastiksarkar001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swastiksarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swastiksarkar001" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/swastiksarkar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swastiksarkar001" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swastiksarkar001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swastiksarkar001" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15404560/swastik-sarkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="swastik-sarkar" height="30" width="40" /></a>
+<a href="https://kaggle.com/swastiksarkar001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="swastiksarkar001" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/swastiksarkar001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swastiksarkar001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/swastiksarkar001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swastiksarkar001" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/swastiksarkar001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swastiksarkar001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
