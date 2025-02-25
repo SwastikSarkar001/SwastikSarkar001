@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swastiksarkar001&label=Profile%20views&color=0e75b6&style=flat" alt="swastiksarkar001" /> </p>
 
-- 🌱 I’m currently learning **Rust, Express.js**
+- 🌱 I’m currently learning **Rust, NLP**
 
-- 💬 Ask me about **React, Java, Python**
+- 💬 Ask me about **React, Java, Python, Redis**
 
 - 📫 How to reach me **kookaswas1234@gmail.com**
 
